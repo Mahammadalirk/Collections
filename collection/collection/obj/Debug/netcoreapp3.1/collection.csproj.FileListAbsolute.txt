@@ -1,0 +1,14 @@
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\bin\Debug\netcoreapp3.1\collection.exe
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\bin\Debug\netcoreapp3.1\collection.deps.json
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.json
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.dev.json
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\bin\Debug\netcoreapp3.1\collection.dll
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\bin\Debug\netcoreapp3.1\collection.pdb
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.csproj.AssemblyReference.cache
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfoInputs.cache
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfo.cs
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.csproj.CoreCompileInputs.cache
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.dll
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.pdb
+C:\Users\mkeri\OneDrive\Desktop\Collection\collection\collection\obj\Debug\netcoreapp3.1\collection.genruntimeconfig.cache
